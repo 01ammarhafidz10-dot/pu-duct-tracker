@@ -1,0 +1,12 @@
+{
+  "name": "pu-duct-tracker",
+  "category": "prototypes",
+  "template": "vite-react",
+  "created_at": "2026-10-01",
+  "description": "PU Ducting Fabrication and Installation Process Tracker",
+  "tags": [
+    "construction",
+    "tracker",
+    "dashboard"
+  ]
+}
